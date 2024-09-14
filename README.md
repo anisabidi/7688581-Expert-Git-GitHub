@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-- Un navigateur Google Chrome ou autre comme FireFox Mozzilla ou encore Opera ou Safari ou encore Edge.
+- Un navigateur Google Chrome ou autre comme FireFox Mozzilla ou encore Opera ou Safari ou encore Edge, ça fonctionne avec TOR aussi.
 
 ```
 
